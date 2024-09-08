@@ -3,6 +3,12 @@
 # MAGIC ### This is my first notebook
 
 # COMMAND ----------
-## added from github account 
+
+# MAGIC %md
+# MAGIC ## added from github account 
+# MAGIC
+# MAGIC
+
+# COMMAND ----------
 
 
